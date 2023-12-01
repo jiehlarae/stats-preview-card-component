@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/jiehlarae/stats-preview-card-component.git]
+- Live Site URL: [https://jiehlarae.github.io/stats-preview-card-component/]
 
 ## My process
 
